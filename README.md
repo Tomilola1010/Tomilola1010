@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋I am Tomilola A. I am a Data Analyst and Also Aa front end developer.</h2>
+<h2 align="center">Hi👋 Welcome to my Portfolio</h2>
 
 ###
 # 👋 Hi, I'm Ayelangbe Tomilola
