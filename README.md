@@ -1,8 +1,7 @@
 <h2 align="center">Hi👋 Welcome to my Portfolio</h2>
 
-###
+#
 # 👋 Hi, I'm Ayelangbe Tomilola
-
 🎯 Aspiring **Data Analyst** & **Front-End Developer**  
 📍 Based in Nigeria | 💡 Passionate about building intuitive dashboards and modern user interfaces
 
